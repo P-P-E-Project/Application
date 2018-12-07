@@ -1,0 +1,17 @@
+C:\Users\Fabien\source\repos\TEST\TEST\bin\Debug\TEST.exe.config
+C:\Users\Fabien\source\repos\TEST\TEST\bin\Debug\TEST.exe
+C:\Users\Fabien\source\repos\TEST\TEST\bin\Debug\TEST.pdb
+C:\Users\Fabien\source\repos\TEST\TEST\obj\Debug\TEST.csprojAssemblyReference.cache
+C:\Users\Fabien\source\repos\TEST\TEST\obj\Debug\MainWindow.g.cs
+C:\Users\Fabien\source\repos\TEST\TEST\obj\Debug\Page1.g.cs
+C:\Users\Fabien\source\repos\TEST\TEST\obj\Debug\App.g.cs
+C:\Users\Fabien\source\repos\TEST\TEST\obj\Debug\TEST_MarkupCompile.cache
+C:\Users\Fabien\source\repos\TEST\TEST\obj\Debug\TEST_MarkupCompile.lref
+C:\Users\Fabien\source\repos\TEST\TEST\obj\Debug\MainWindow.baml
+C:\Users\Fabien\source\repos\TEST\TEST\obj\Debug\Page1.baml
+C:\Users\Fabien\source\repos\TEST\TEST\obj\Debug\TEST.g.resources
+C:\Users\Fabien\source\repos\TEST\TEST\obj\Debug\TEST.Properties.Resources.resources
+C:\Users\Fabien\source\repos\TEST\TEST\obj\Debug\TEST.csproj.GenerateResource.cache
+C:\Users\Fabien\source\repos\TEST\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+C:\Users\Fabien\source\repos\TEST\TEST\obj\Debug\TEST.exe
+C:\Users\Fabien\source\repos\TEST\TEST\obj\Debug\TEST.pdb
